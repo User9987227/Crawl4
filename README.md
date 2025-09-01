@@ -11,12 +11,14 @@ The project demonstrates custom gait algorithms, servo coordination, and modular
 
 🛠️ Hardware :-
 
-- Arduino Mega / Uno / ESP32
+- Arduino Mega / Uno / Nano
 - PCA9685 Servo Driver
 - 8x MG90S or SG90 Servos
+- External power supply for servos
 
 📂 Repo Contents :-
 
+- Assembly/ → Assembly Instructions with images
 - src/ → Main source code (spider_bot.ino)
 - lib/ → Custom libraries (servo management, gait patterns)
 - examples/ → Simple walking and movement sketches
