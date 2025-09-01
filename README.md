@@ -1,4 +1,4 @@
-QuadraBot is a DIY quadruped robot powered by 8 servo motors (2 per leg) and controlled with Arduino.
+Crawl4 is a DIY quadruped robot powered by 8 servo motors (2 per leg) and controlled with Arduino.
 The project demonstrates custom gait algorithms, servo coordination, and modular code libraries for experimenting with robotics.
 
 ✨ Features :-
