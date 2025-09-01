@@ -6,12 +6,12 @@ Servo channels :-
 
 - Front left hip = 0
 - Front left knee = 1
-- Front right hip = 3
-- Front right knee = 4
-- Back left hip = 5
-- Back left knee = 6
-- Back right hip = 7
-- Back right knee = 8
+- Front right hip = 2
+- Front right knee = 3
+- Back left hip = 4
+- Back left knee = 5
+- Back right hip = 6
+- Back right knee = 7
 
 2. PCA9685 connections :-
 
